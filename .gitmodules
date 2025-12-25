@@ -7,3 +7,6 @@
 [submodule "cir1-ft_printf"]
 	path = cir1-ft_printf
 	url = git@github.com:mizvchi/cir1-ft_printf
+[submodule "cir1-get_next_line"]
+	path = cir1-get_next_line
+	url = git@github.com:mizvchi/cir1-get_next_line
