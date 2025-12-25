@@ -4,3 +4,6 @@
 [submodule "cir1-Born2BeRoot"]
 	path = cir1-Born2BeRoot
 	url = git@github.com:mizvchi/cir1-Born2BeRoot
+[submodule "cir1-ft_printf"]
+	path = cir1-ft_printf
+	url = git@github.com:mizvchi/cir1-ft_printf
