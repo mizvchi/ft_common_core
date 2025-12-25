@@ -1,3 +1,6 @@
 [submodule "cir0-libft"]
 	path = cir0-libft
 	url = git@github.com:mizvchi/cir0-libft
+[submodule "cir1-Born2BeRoot"]
+	path = cir1-Born2BeRoot
+	url = git@github.com:mizvchi/cir1-Born2BeRoot
